@@ -5,7 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.AppState = undefined;
 
-var _AppState = require('./AppState');
+var _AppState = require('./lib/AppState');
 
 var _AppState2 = _interopRequireDefault(_AppState);
 
