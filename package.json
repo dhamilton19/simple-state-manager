@@ -18,5 +18,11 @@
     "babel-preset-stage-0": "^6.3.13",
     "eslint-plugin-babel": "^3.2.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "babel": {
+	"presets": [
+	  "es2015",
+	  "stage-0"
+	]
+  }
 }
