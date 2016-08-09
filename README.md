@@ -2,7 +2,6 @@
 See example at: https://github.com/dhamilton91/react-menu-app
 
 This library is intended for learning with small apps.
-It does not support arrays in its state as they are bad for passing data around in.
 
 Goals of this project:
 * Minimal effort to use (in small apps compared to Redux)
